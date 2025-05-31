@@ -41,8 +41,6 @@ This repository contains example images results showcasing the system's capabili
 
 Below are sample outputs and system views from the smart surveillance camera system:
 
-![Screenshot 1 – Real-time detection interface](https://github.com/RayaObaid/Smart-Surveillance-Camera-System/blob/main/Picture1.png)
-
 ![Screenshot 2 – Emotion detection example](https://github.com/RayaObaid/Smart-Surveillance-Camera-System/blob/main/Picture2.jpg)
 
 ![Screenshot 3 – Unauthorized access alert](https://github.com/RayaObaid/Smart-Surveillance-Camera-System/blob/main/Picture3.jpg)
