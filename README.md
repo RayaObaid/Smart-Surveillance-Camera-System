@@ -37,6 +37,24 @@ This repository contains example images results showcasing the system's capabili
 
 ---
 
+## Screenshots
+
+Below are sample outputs and system views from the smart surveillance camera system:
+
+![Screenshot 1 – Real-time detection interface](https://github.com/RayaObaid/Smart-Surveillance-Camera-System/blob/main/Picture1.png)
+
+![Screenshot 2 – Emotion detection example](https://github.com/RayaObaid/Smart-Surveillance-Camera-System/blob/main/Picture2.jpg)
+
+![Screenshot 3 – Unauthorized access alert](https://github.com/RayaObaid/Smart-Surveillance-Camera-System/blob/main/Picture3.jpg)
+
+![Screenshot 4 – Monitoring dashboard](https://github.com/RayaObaid/Smart-Surveillance-Camera-System/blob/main/Picture4.jpg)
+
+![Screenshot 5 – Emotion analysis UI](https://github.com/RayaObaid/Smart-Surveillance-Camera-System/blob/main/Picture5.jpg)
+
+![Screenshot 6 – Multi-zone tracking](https://github.com/RayaObaid/Smart-Surveillance-Camera-System/blob/main/Picture6.jpg)
+
+---
+
 ## About the Developer
 
 Developed as a graduation project by **Raya Obaid**, **Sarah Al Assali** & **Otaymh Abu Taha**, combining expertise in machine learning, computer vision, and system integration to build smart factory security solutions.
